@@ -10,6 +10,7 @@ public class Joc {
         Tirada t = new Tirada();
 
         String guanyador="";
+        System.out.println("HOLAAAAAAAAAAAAAAAAAAAA");
 
         while (true) {
             if (j1.haGuanyat(t)) {
